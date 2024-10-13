@@ -13,9 +13,5 @@
 
 ## Téléchargements / Downloads
 
-Téléchargement disponible dans [GitHub Releases](https://github.com/PKH-SERVER/PKHLauncher/releases/download/PKH_Launcher/PKH.Launcher-setup-1.0.0.exe)
+Téléchargement disponible dans [GitHub Releases](https://github.com/PKH-SERVER/PKHLauncher/releases/download/PKH_Launcher/PKH.Launcher-setup-1.0.0.exe)<br>
 You can download from [GitHub Releases](https://github.com/PKH-SERVER/PKHLauncher/releases/download/PKH_Launcher/PKH.Launcher-setup-1.0.0.exe)
-
-#### Dernière Version / Latest Release
-
-[![](https://img.shields.io/github.com/PKH-SERVER/PKHLauncher.svg?style=flat-square)](https://github.com/PKH-SERVER/PKHLauncher/releases/latest)
